@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cascadisfinal/static/css/main.4ee71763.css",
+    "main.js": "/cascadisfinal/static/js/main.03956175.js",
+    "index.html": "/cascadisfinal/index.html",
+    "main.4ee71763.css.map": "/cascadisfinal/static/css/main.4ee71763.css.map",
+    "main.03956175.js.map": "/cascadisfinal/static/js/main.03956175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ee71763.css",
+    "static/js/main.03956175.js"
+  ]
+}
